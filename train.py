@@ -7,7 +7,8 @@
 # Writen by Kuang-Huei Lee, 2018
 # ---------------------------------------------------------------
 """Training script"""
-
+import time
+import pandas
 import os
 import time
 import shutil
